@@ -6,4 +6,4 @@
 // npm install pdf-lib (//pdf lib can do 2 types of work , create a complete new pdf , another is modify the already existing template)
 
 Command to run the code -->
-node CricinfoExtracter.js --excel="WorlCup.csv" --dataFolder="data" -- source="https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results"
+node CricinfoExtracter.js --excel="WorlCup.csv" --dataFolder="data" --source="https://www.espncricinfo.com/series/icc-cricket-world-cup-2019-1144415/match-results"
